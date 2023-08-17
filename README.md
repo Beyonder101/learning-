@@ -66,19 +66,23 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
  ![1](https://github.com/Beyonder101/learning-WD/assets/117578779/cd76fb05-3ed6-45c5-bc20-42b7cdcd5959)
 
 
-3. Set HTML code format from Figma 
-# ![2](https://github.com/Beyonder101/learning-WD/assets/117578779/c9b8dab9-e744-497e-b0d2-c834de4df0cb)
+2. Set HTML code format from Figma
+#
+ ![2](https://github.com/Beyonder101/learning-WD/assets/117578779/c9b8dab9-e744-497e-b0d2-c834de4df0cb)
 
 4. Copy the code
+ #
  ![3](https://github.com/Beyonder101/learning-WD/assets/117578779/0e04d467-156b-4d29-ace4-be925167fdc5)
 
 
-5. Paste it on tailwind Play in HTML tab
- ![4](https://github.com/Beyonder101/learning-WD/assets/117578779/964794e0-72c0-4e40-a584-d1062e56f03b)
+4. Paste it on tailwind Play in HTML tab
+#
+![4](https://github.com/Beyonder101/learning-WD/assets/117578779/964794e0-72c0-4e40-a584-d1062e56f03b)
 
 
-6. it should look like this
- ![5](https://github.com/Beyonder101/learning-WD/assets/117578779/1091a7a8-1066-4305-b04f-cae4dd380130)
+5. it should look like this
+#
+![5](https://github.com/Beyonder101/learning-WD/assets/117578779/1091a7a8-1066-4305-b04f-cae4dd380130)
 
 //
 Now the task is to leran how to integrate basic function Into it.
