@@ -10,7 +10,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
-
+ write in Terminal - 
 ```bash
 npm run dev
 # or
@@ -39,3 +39,38 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Tailwind - https://www.youtube.com/tailwindlabs
+
+
+## Free Templeates - 
+
+1. https://tailwinduikit.com/components/webapp/master_layout/boxed_layout
+2. https://cruip.com/free-templates/
+3. 
+
+
+## Figma layouts to try 
+
+1 -  https://www.figma.com/file/f2UPXxKCDu5EMETzJPZO0C/Wireframe?node-id=61%3A694&mode=dev
+
+2 -  https://www.figma.com/file/fnMpIlDLTplBWPHCn5j7hU/Second-project-(Magician-Playground-DEMo)?type=design&node-id=2%3A2&mode=design&t=BhWXcvdWgcxefQhd-1
+
+3 - https://www.figma.com/file/WYpJVzx98uAjsoCKdj3bIe/Firt-project?type=design&node-id=0%3A1&mode=design&t=BhWXcvdWgcxefQhd-1
+
+## Extra 
+
+1. Turn ON Dev Mode in your Figma
+![1](https://github.com/Beyonder101/learning-WD/assets/117578779/341a25f6-7327-4ce1-8846-4418e20f650c)
+2. Set HTML code format from Figma 
+![2](https://github.com/Beyonder101/learning-WD/assets/117578779/bd2a2080-08dc-4617-ba8a-09ebbea5bd4a)
+3. Copy the code
+![3](https://github.com/Beyonder101/learning-WD/assets/117578779/5e4e2586-ee39-462e-bf65-33cd3806d2c0)
+4. Paste it on tailwind Play in HTML tab
+![4](https://github.com/Beyonder101/learning-WD/assets/117578779/cbccfa2f-932b-4f1e-934d-4a482cad326f)
+5. it should look like this
+![5](https://github.com/Beyonder101/learning-WD/assets/117578779/9fd64128-f4ed-4679-a516-3585c3f9acbd)
+
+Now the task is to leran how to integrate basic function Into it.
+
+you will see how easy it is to integrate figma Wireframe to Main Model.
