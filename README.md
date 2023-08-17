@@ -70,7 +70,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 #
  ![2](https://github.com/Beyonder101/learning-WD/assets/117578779/c9b8dab9-e744-497e-b0d2-c834de4df0cb)
 
-4. Copy the code
+3. Copy the code
  #
  ![3](https://github.com/Beyonder101/learning-WD/assets/117578779/0e04d467-156b-4d29-ace4-be925167fdc5)
 
