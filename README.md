@@ -61,15 +61,24 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Extra 
 
 1. Turn ON Dev Mode in your Figma
-![1](https://github.com/Beyonder101/learning-WD/assets/117578779/341a25f6-7327-4ce1-8846-4418e20f650c)
+![1](https://github.com/Beyonder101/learning-WD/assets/117578779/cd76fb05-3ed6-45c5-bc20-42b7cdcd5959)
+
+
 2. Set HTML code format from Figma 
-![2](https://github.com/Beyonder101/learning-WD/assets/117578779/bd2a2080-08dc-4617-ba8a-09ebbea5bd4a)
+![2](https://github.com/Beyonder101/learning-WD/assets/117578779/c9b8dab9-e744-497e-b0d2-c834de4df0cb)
+
+
 3. Copy the code
-![3](https://github.com/Beyonder101/learning-WD/assets/117578779/5e4e2586-ee39-462e-bf65-33cd3806d2c0)
+![3](https://github.com/Beyonder101/learning-WD/assets/117578779/0e04d467-156b-4d29-ace4-be925167fdc5)
+
+
 4. Paste it on tailwind Play in HTML tab
-![4](https://github.com/Beyonder101/learning-WD/assets/117578779/cbccfa2f-932b-4f1e-934d-4a482cad326f)
+![4](https://github.com/Beyonder101/learning-WD/assets/117578779/964794e0-72c0-4e40-a584-d1062e56f03b)
+
+
 5. it should look like this
-![5](https://github.com/Beyonder101/learning-WD/assets/117578779/9fd64128-f4ed-4679-a516-3585c3f9acbd)
+![5](https://github.com/Beyonder101/learning-WD/assets/117578779/1091a7a8-1066-4305-b04f-cae4dd380130)
+
 
 Now the task is to leran how to integrate basic function Into it.
 
