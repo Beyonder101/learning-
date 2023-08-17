@@ -1,3 +1,10 @@
+Download node_modules  from Google Drive link --  
+https://drive.google.com/drive/folders/1hcH_R8kKmO-VnLf3k5T7aZ0YkUedikAR?usp=drive_link
+Paste the file in the project folder (inside the git cloned folder)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
