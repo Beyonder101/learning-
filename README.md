@@ -88,3 +88,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Now the task is to leran how to integrate basic function Into it.
 
 you will see how easy it is to integrate figma Wireframe to Main Model.
+Tip * - start workinf in Page.js Soundwave<app<page
