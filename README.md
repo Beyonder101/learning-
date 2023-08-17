@@ -10,7 +10,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
- write in Terminal - 
+ write in Terminal (Microsoft VS code need to be Installed) - 
 ```bash
 npm run dev
 # or
