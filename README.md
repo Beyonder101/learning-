@@ -52,32 +52,32 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 3 - https://www.figma.com/file/WYpJVzx98uAjsoCKdj3bIe/Firt-project?type=design&node-id=0%3A1&mode=design&t=BhWXcvdWgcxefQhd-1
 
+## Complex Charts with simple layers so you can edit as you like om Figma
+![Complex](https://github.com/Beyonder101/learning-WD-Soundwave/assets/117578779/c34977a1-6eae-47f2-b1b2-d34fe39dd284)
+
 ## Extra 
 
 
 1. Turn ON Dev Mode in your Figma
 # 
- ![1](https://github.com/Beyonder101/learning-WD/assets/117578779/cd76fb05-3ed6-45c5-bc20-42b7cdcd5959)
+ ![
 
 
 2. Set HTML code format from Figma
 #
- ![2](https://github.com/Beyonder101/learning-WD/assets/117578779/c9b8dab9-e744-497e-b0d2-c834de4df0cb)
+ ![
 
 3. Copy the code
  #
- ![3](https://github.com/Beyonder101/learning-WD/assets/117578779/0e04d467-156b-4d29-ace4-be925167fdc5)
-
+ ![
 
 4. Paste it on tailwind Play in HTML tab
 #
-![4](https://github.com/Beyonder101/learning-WD/assets/117578779/964794e0-72c0-4e40-a584-d1062e56f03b)
-
+![
 
 5. it should look like this
 #
-![5](https://github.com/Beyonder101/learning-WD/assets/117578779/1091a7a8-1066-4305-b04f-cae4dd380130)
-
+![
 //
 Now the task is to leran how to integrate basic function Into it.
 
