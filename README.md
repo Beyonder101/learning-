@@ -1,9 +1,4 @@
-Download node_modules  from Google Drive link --  
-https://drive.google.com/drive/folders/12dNb149b3YGRY6Lgjr598KlszL8vwL_K?usp=drive_link
-Paste the file in the project folder (inside the git cloned folder)
-
-
-
+Right now designing is done , we need to code FE
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -49,12 +44,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 2. https://cruip.com/free-templates/
 3. 
 
-
 ## Figma layouts to try 
 
 1 -  https://www.figma.com/file/f2UPXxKCDu5EMETzJPZO0C/Wireframe?node-id=61%3A694&mode=dev
 
-2 -  https://www.figma.com/file/fnMpIlDLTplBWPHCn5j7hU/Second-project-(Magician-Playground-DEMo)?type=design&node-id=2%3A2&mode=design&t=BhWXcvdWgcxefQhd-1
+2 -  WD on Figma - https://shorturl.at/kNPSV
 
 3 - https://www.figma.com/file/WYpJVzx98uAjsoCKdj3bIe/Firt-project?type=design&node-id=0%3A1&mode=design&t=BhWXcvdWgcxefQhd-1
 
